@@ -1,0 +1,23 @@
+body {
+  background-color:rgb(102, 153, 153);
+}
+h1 {
+  color:black; font-size:36;
+  font-family: Arial, helvetica, Calibri; 
+}
+h2{
+  font-size: 24px;color:black
+}
+.header{
+  border: 5px rgb(0, 153, 153) solid;
+  padding-left:10px;
+}
+
+img{
+  width:25%;
+  Padding-left:210px;
+}
+
+.fish{
+  padding-top: 5px;
+}
